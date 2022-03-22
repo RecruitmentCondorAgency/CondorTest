@@ -1,4 +1,4 @@
-# CondorTest - PRACTICAL
+# MVC and C# - PRACTICAL
 
 The practical test consists of a simple CRUD App writing with ASP.net 5.
 
